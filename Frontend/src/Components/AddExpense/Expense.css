@@ -1,0 +1,19 @@
+.buttonSection {
+    margin: 10px;
+    z-index: 10;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-right: 162px;
+    padding-top: 10px;
+}
+select.form-control.typeSelect {
+    margin: 10px 0px 10px 0px;
+    color: #818182;
+    /* padding-right: 13px; */
+}
+button.btn.btn-primary.addExpensebutton {
+    background: #63d5af;
+    border-color: #63d5af;
+    margin-right: 100px;
+}

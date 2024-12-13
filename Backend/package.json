@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server",
     "server": "nodemon server",
-    "build": "webpack --mode production"
+    "build": "npm install"
   },
   "author": "santhakumar",
   "license": "ISC",

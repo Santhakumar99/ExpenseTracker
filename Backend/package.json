@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon server",
-    "server": "nodemon server"
+    "server": "nodemon server",
+    "build" :"npm build"
   },
   "author": "santhakumar",
   "license": "ISC",
